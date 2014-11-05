@@ -10,5 +10,6 @@ setup(name = "peggy",
       author = "Alistair Lynn",
       author_email = "alistair@alynn.co.uk",
       install_requires = 'nose >=1.3, <2',
+      license = 'MIT',
       zip_safe = True)
 
